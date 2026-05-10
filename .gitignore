@@ -1,0 +1,11 @@
+test-chain/
+Artificial Intelligence Practical Work.docx
+assignment_text.txt
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+*.egg-info/
+.DS_Store
